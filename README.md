@@ -7,6 +7,10 @@ System Design Materials and Resources
 
 <img width="1248" height="801" alt="image" src="https://github.com/user-attachments/assets/2b590f2f-405a-45a0-a482-024affd4acf5" />
 
+-----
+
+<img width="1332" height="272" alt="image" src="https://github.com/user-attachments/assets/7b2ba92c-7073-488b-90b6-ec5ae4fa045b" />
+
 
 ## Resources
 
