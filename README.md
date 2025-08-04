@@ -13,7 +13,7 @@ System Design Materials and Resources
 
 -----
 
-<img width="911" height="684" alt="image" src="https://github.com/user-attachments/assets/c5c7f3ed-084c-41bd-ba35-55a815c3ae9c" />
+<img width="654" height="474" alt="image" src="https://github.com/user-attachments/assets/e3de1efb-beb2-40be-8886-b44012d06bb4" />
 
 ## Resources
 
