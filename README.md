@@ -19,6 +19,10 @@ System Design Materials and Resources
 
 <img width="1013" height="985" alt="image" src="https://github.com/user-attachments/assets/ec498107-cbd0-4061-88bc-c09f91db2215" />
 
+-----
+
+<img width="1067" height="785" alt="image" src="https://github.com/user-attachments/assets/a5eb4406-9a8a-4f73-886b-c4baaba89c8c" />
+
 ## Resources
 
 - [System Design PDFs (2024 Edition - Latest)](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
