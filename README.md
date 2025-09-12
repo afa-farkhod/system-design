@@ -35,6 +35,12 @@ System Design Materials and Resources
 
 <img width="1018" height="604" alt="image" src="https://github.com/user-attachments/assets/c62d57f7-30bf-4191-b192-1fd7f546778d" />
 
+-----
+
+`OSI - Open System Interconnection`
+
+<img width="1150" height="683" alt="image" src="https://github.com/user-attachments/assets/514fc7c0-2cc3-4339-bb3a-e27b7467f062" />
+
 
 ## Resources
 
